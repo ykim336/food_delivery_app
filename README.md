@@ -1,16 +1,9 @@
 # food_delivery_app
 
-A new Flutter project.
+a simple delivery app that takes your orders and addons. it have many features!
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/d51dd990-048e-4039-9e06-90555b5a253c)![image](https://github.com/user-attachments/assets/e4564312-8c15-4ab3-bde6-82c2ddf37a61)![image](https://github.com/user-attachments/assets/5b72be64-978c-409b-9f56-ee984a697255)![image](https://github.com/user-attachments/assets/0f2d89cb-803c-4f4a-8ef1-a541ad6840d4)![image](https://github.com/user-attachments/assets/fd541d81-bc0c-4930-942d-489645236dea)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
